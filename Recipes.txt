@@ -6,7 +6,9 @@ Kheer
 Pasta
 paneer
 puri
-
+dahi
+milk
+pizza
 
 
 thank you :)
